@@ -37,7 +37,7 @@
 
 ## Connect with Me
 - **Email:** puneethprince20@gmail.com
-- **GitHub:** [@PuneethPrince1](https://github.com/PuneethPrince1)
+- **GitHub:** [@Puneeth-Prince](https://github.com/Puneeth-Prince)
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
 
