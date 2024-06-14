@@ -1,6 +1,6 @@
 # Puneeth-Prince
 
-👋 Hi, I'm @PuneethPrince1!
+👋 Hi, I'm @Puneeth-Prince!
 
 ## About Me
 👀 I'm a passionate web developer with a keen interest in coding.  
